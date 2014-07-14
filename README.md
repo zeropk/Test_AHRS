@@ -1,4 +1,4 @@
-myAHRS+_Test_page
+myAHRS+ Test page
 =======================
 
 이 페이지는 위드로봇에서 제작한 myAHRS+의 사용관련 테스트 페이지입니다.

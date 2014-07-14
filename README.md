@@ -1,5 +1,9 @@
-이곳은 AHRS+ 제품을 위한 테스트 페이지입니다.
+myAHRS+_Test_page
+=======================
 
-홈페이지: http://www.withrobot.com
+이 페이지는 위드로봇에서 제작한 myAHRS+의 사용관련 테스트 페이지입니다.
 
-myAHRS+의 사용법은 wiki를 참조하세요.
+홈페이지 : http://withrobot.com
+
+본 제품에 관한 설명과 사용방법은 우측 메뉴의 [Wiki 페이지](https://github.com/zeropk/Test_AHRS/wiki)를 참조하시기 바랍니다.
+
